@@ -11,6 +11,7 @@ import numpy as np
 
 building_blocks = [
     'John MacCormick',
+    'Phu Nguyen',
     'Fake student one',
     'Fausse etudiante deux',
 ]
