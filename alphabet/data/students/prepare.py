@@ -17,6 +17,8 @@ building_blocks = [
     'Maximo Sanchez',
     'Lionel Messi'
     'Matt Ferland',
+    "Rohan Piya",
+    "Bruno Fernandes"
 ]
 
 target_length = 1_000_000  # about 1MB will be plenty of training data
