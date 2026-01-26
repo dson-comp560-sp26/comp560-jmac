@@ -21,6 +21,7 @@ building_blocks = [
     'Aaron Shin',
     'Niloy Saha',
     'Tony Stark',
+    'Hemanth Kapa'
 ]
 
 target_length = 1_000_000  # about 1MB will be plenty of training data
