@@ -14,7 +14,7 @@ wandb_log = False # override via command line if you like
 wandb_project = 'alphabet-basic'
 wandb_run_name = 'infant'
 
-dataset = 'students'
+dataset = 'basic'
 gradient_accumulation_steps = 1
 batch_size = 12
 block_size = 64
