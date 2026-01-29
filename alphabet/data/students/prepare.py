@@ -23,6 +23,7 @@ building_blocks = [
     'Aaron Shin',
     'Niloy Saha',
     'Tony Stark',
+    'Nish Kolla'
     'Hemanth Kapa'
 ]
 
