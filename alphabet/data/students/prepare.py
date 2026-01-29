@@ -18,6 +18,8 @@ building_blocks = [
     'Maximo Sanchez',
     'Lionel Messi',
     'Matt Ferland',
+    "Rohan Piya",
+    "Bruno Fernandes"
     'Aaron Shin',
     'Niloy Saha',
     'Tony Stark',
