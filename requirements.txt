@@ -1,0 +1,9 @@
+torch
+numpy>=1.20.0
+transformers
+datasets
+tiktoken
+wandb
+tqdm
+requests>=2.25.0
+
